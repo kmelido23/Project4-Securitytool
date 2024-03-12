@@ -32,7 +32,6 @@ CHOICE=$(dialog --clear \
                 2 "Snort" \
                 3 "John the Ripper" \
                 4 "Nmap" \
-                5 "View Builder Info" \
                 2>&1 >/dev/tty)
 
 # Display description for the chosen tool
