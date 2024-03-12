@@ -5,6 +5,8 @@ Our goal was to create a tool that will be easily accessible with consistency. T
 
 Here are the Security tools that you will be getting in the image -Metasploit: A powerful penetration testing framework. -Snort: An open-source network instrution detection system. -John the Ripper: A fast password cracker.
 
+Also, stay tune  because we will be creating a workflow so our image will show the latest verion everytime we update it
+
 Finally! we uploaded the files to our Script to everyone to view!
 
 From your Creators, Kurt, Austin, Claudia, Sam
